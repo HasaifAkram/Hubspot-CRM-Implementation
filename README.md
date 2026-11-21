@@ -11,10 +11,8 @@
 
 </div>
 
-An end-to-end HubSpot CRM administration playbook. It shows how to take a business from messy spreadsheets to a CRM that is organised, tested and easy to maintain, and it covers every stage of a client project, from discovery to handover and ongoing operations.
+An end-to-end HubSpot CRM administration. It shows how to take a business from messy spreadsheets to a CRM that is organised, tested and easy to maintain, and it covers every stage of a client project, from discovery to handover and ongoing operations.
 
-> [!NOTE]
-> The client in this playbook, **ScaleOS Technologies** (a B2B SaaS company), is **fictional**. This is a portfolio project built around a realistic scenario. It is not a record of work done for a real client, and no configuration is claimed as implemented until it has been built and tested in a HubSpot portal.
 
 ## 📋 Overview
 
