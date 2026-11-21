@@ -204,12 +204,6 @@ Eight KPIs, each with a written definition, a calculation rule, an owner and a r
 
 </details>
 
-## 📁 Repository contents
-
-| File | Description |
-|---|---|
-| `ScaleOS_HubSpot_CRM_End_to_End_Client_Project_Playbook.docx` | The full playbook |
-| `README.md` | This overview |
 
 ## ⚠️ Scope and limitations
 
